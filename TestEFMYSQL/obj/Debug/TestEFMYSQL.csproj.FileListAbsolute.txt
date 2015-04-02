@@ -1,0 +1,14 @@
+c:\users\csj\documents\visual studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\bin\Debug\TestEFMYSQL.exe.config
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\bin\Debug\TestEFMYSQL.exe
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\bin\Debug\TestEFMYSQL.pdb
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\bin\Debug\EntityFramework.dll
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\bin\Debug\EntityFramework.xml
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\obj\Debug\TestEFMYSQL.exe
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\obj\Debug\TestEFMYSQL.pdb
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestEFMYSQL\TestEFMYSQL\obj\Debug\TestEFMYSQL.csprojResolveAssemblyReference.cache
+C:\Users\csj\Desktop\TestEFMYSQL\TestEFMYSQL\bin\Debug\TestEFMYSQL.exe.config
+C:\Users\csj\Desktop\TestEFMYSQL\TestEFMYSQL\obj\Debug\TestEFMYSQL.exe
+C:\Users\csj\Desktop\TestEFMYSQL\TestEFMYSQL\obj\Debug\TestEFMYSQL.pdb
